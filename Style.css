@@ -11,10 +11,21 @@
 }
 .section-1{
     padding-top: 10px;
-    height: 60px;
+    height: 80px;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-items: center;
 }
 /* Image Style */
 .imgstyle{
     width: 48px;
     height: 48px;
+}
+.btn-color{
+    background-color:lightgrey;
+    color: purple;
+    border: none;
+    width: 100px;
+   
+   
 }
